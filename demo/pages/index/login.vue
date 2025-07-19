@@ -469,6 +469,7 @@ export default {
   border-radius: 10rpx;
   background-color: #f1f8e9;
   transition: all 0.3s;
+  margin: 20rpx;
 }
 
 .input-group.error {
