@@ -11,6 +11,12 @@
 			"style": {
 				"navigationBarTitleText": "历小包登录"
 			}
+		},
+		{
+			"path": "pages/index/lixiaobao",
+			"style": {
+				"navigationBarTitleText": "历小包AI"
+			}
 		}
 	],
 	"globalStyle": {
